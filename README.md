@@ -6,12 +6,8 @@
 
 📊 Actualmente, me desempeño como Analista de Datos en el centro de innovación docente de la Universidad del Desarrollo (UDD).
 
-### 🚀 Mis proyectos destacados
-- [Nombre del Proyecto 1](URL_DEL_PROYECTO_1) - Breve descripción del proyecto
-- [Nombre del Proyecto 2](URL_DEL_PROYECTO_2) - Breve descripción del proyecto
-
 ### 🛠️ Herramientas y Tecnologías
-![Python]
+- Python, SQL, Power BI, R-Studio
 
 ### 🌍 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-jos%C3%A9-mercandino-sep%C3%BAlveda-871312196/)
