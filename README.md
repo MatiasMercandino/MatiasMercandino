@@ -11,13 +11,8 @@
 - [Nombre del Proyecto 2](URL_DEL_PROYECTO_2) - Breve descripción del proyecto
 
 ### 🛠️ Herramientas y Tecnologías
-![Python](URL_INSIGNIA_PYTHON) ![R](URL_INSIGNIA_R) ![SQL](URL_INSIGNIA_SQL) //... y cualquier otra tecnología que domines.
-
-![Estadísticas de MatiasMercandino en GitHub](URL_IMAGEN_ESTADISTICAS)
+![Python]
 
 ### 🌍 Conéctate conmigo
-- [LinkedIn](URL_LINKEDIN)
-- [Twitter](URL_TWITTER)
-
-💼 Si estás interesado en colaborar en alguno de mis proyectos, ¡no dudes en contactarme!
+- [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-jos%C3%A9-mercandino-sep%C3%BAlveda-871312196/)
 
