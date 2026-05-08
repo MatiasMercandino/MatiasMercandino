@@ -8,6 +8,7 @@
 - 🌱 Learning and building real projects in **ML, Data Engineering and AI Agent Systems**.
 - 🔬 Exploring anomaly detection, time-series forecasting and explainable AI.
 - 🛠️ I believe the best way to learn is by **building things that actually work in production**.
+- 🎓 Studied at **Universidad del Desarrollo**, Santiago de Chile.
 
 ---
 
@@ -47,6 +48,8 @@
 
 ## Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20Mercandino-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-jos%C3%A9-mercandino-sep%C3%BAlveda-871312196)
+[![Gmail](https://img.shields.io/badge/Gmail-matiasmercandino%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matiasmercandino@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MatiasMercandino-181717?style=flat&logo=github)](https://github.com/MatiasMercandino)
 
 ---
