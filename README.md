@@ -2,12 +2,12 @@
 
 [![lang](https://img.shields.io/badge/lang-es-red)](https://github.com/MatiasMercandino) [![lang](https://img.shields.io/badge/lang-en-blue)](https://github.com/MatiasMercandino)
 
-🧑‍💻 I'm **Matias Mercandino** — Data Engineer & ML Developer building production-grade AI systems.
+📊 I'm **Matias Mercandino** — Data Analyst from Chile 🇨🇱, on a journey to become a Machine Learning Engineer.
 
-- 🤖 Building intelligent **Agent Skill pipelines** for anomaly detection and forecasting.
-- 🛍️ Developing **B2B SaaS platforms** with role-based authentication and lead traceability.
-- 🔎 Passionate about **Explainable AI** and preventing Data Leakage in ML workflows.
-- 🌎 Based in Chile 🇨🇱
+- 📈 Currently working as a **Data Analyst**, turning raw data into actionable insights.
+- 🌱 Learning and building real projects in **ML, Data Engineering and AI Agent Systems**.
+- 🔬 Exploring anomaly detection, time-series forecasting and explainable AI.
+- 🛠️ I believe the best way to learn is by **building things that actually work in production**.
 
 ---
 
@@ -45,11 +45,10 @@
 
 ---
 
-## GitHub Stats
+## Let's Connect
 
-![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMercandino&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMercandino&layout=compact&theme=dark&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-MatiasMercandino-181717?style=flat&logo=github)](https://github.com/MatiasMercandino)
 
 ---
 
-*"Data without validation is just noise."*
+*"The expert in anything was once a beginner."*
