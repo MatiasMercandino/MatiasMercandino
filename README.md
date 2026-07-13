@@ -16,7 +16,7 @@
 
 - 🔬 **[Tigabytes Anomaly Detector](https://github.com/MatiasMercandino/tigabytes-anomaly-detector)** — End-to-end ML pipeline for infrastructure anomaly detection using Isolation Forest with SHAP-inspired explainability.
 - 🛍️ **[Neolink Hub](https://github.com/MatiasMercandino/neolink-hub)** — B2B SaaS Marketplace with role-based auth (Buyer/Seller/Admin), lead traceability and AI-powered content moderation.
-
+- ⚽ **[Polla Mundial](https://https://github.com/MatiasMercandino/polla-mundial-2026)** — Interactive platform for managing 2026 World Cup predictions, featuring automated scoring, group stage simulations, and statistical analysis.
 ---
 
 ## 💻 Tech Stack
